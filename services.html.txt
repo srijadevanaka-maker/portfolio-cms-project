@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Services</title>
+</head>
+<body>
+    <h1>Services I Offer</h1>
+    
+    <ul>
+        <li>Web Development (HTML, CSS, Basic JavaScript)</li>
+        <li>Portfolio Website Design</li>
+        <li>Simple Website Maintenance</li>
+    </ul>
+    
+    <a href="index.html">Back to Home</a>
+</body>
+</html>
