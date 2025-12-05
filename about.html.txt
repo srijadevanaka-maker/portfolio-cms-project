@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>About Me</title>
+</head>
+<body>
+    <h1>About Me</h1>
+    <p>Hello! I am Srija, an MCA student and aspiring Web Developer.</p>
+    
+    <h2>My Skills</h2>
+    <ul>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>Basic JavaScript</li>
+    </ul>
+    
+    <h2>My Interests</h2>
+    <p>I love Web Development, Programming, and learning new technologies.</p>
+    
+    <a href="index.html">Back to Home</a>
+</body>
+</html>
+
+
+
+
