@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Projects</title>
+</head>
+<body>
+    <h1>My Projects</h1>
+    
+    <ul>
+        <li><strong>Personal Portfolio Website</strong> – Created using HTML & CSS</li>
+        <li><strong>Simple To-Do App</strong> – Learned basic JavaScript</li>
+        <li><strong>Internship Project</strong> – Submitted for Web Developer internship at EazyByts</li>
+    </ul>
+    
+    <a href="index.html">Back to Home</a>
+</body>
+</html>
