@@ -1,18 +1,39 @@
+General body styling */
 body {
     font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
     padding: 20px;
 }
 
+/* Page heading */
 h1 {
-    color: darkblue;
+    color: #003399;
+    text-align: center;
+}
+
+/* Navigation bar styling */
+nav {
+    background-color: white;
+    padding: 10px;
+    margin-bottom: 20px;
+    text-align: center;
+    border-bottom: 2px solid #ccc;
 }
 
 nav a {
-    margin-right: 10px;
+    margin: 0 10px;
     text-decoration: none;
-    color: blue;
+    color: #003399;
+    font-weight: bold;
 }
 
 nav a:hover {
     text-decoration: underline;
+}
+
+/* Paragraph styling */
+p {
+    font-size: 18px;
+    color: #333;
 }
